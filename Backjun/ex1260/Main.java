@@ -7,20 +7,21 @@ public class Main {
     public static boolean[] dfsVisited = new boolean[1001];
     public static boolean[] bfsVisited = new boolean[1001];
     public static Integer[][] graph = new Integer[1001][1001];
+    public static int n,m,v;
 
-    static void dfs(int d, int count){
+    static void dfs(int d){
         dfsVisited[d] = true;
         System.out.print(d);
 
-        for(int i = 1;i<=count;i++){
+        for(int i = 1;i<=n;i++){
             if(graph[d][i] != 0 && !dfsVisited[i]){
                 System.out.print(" ");
-                dfs(i,count);
+                dfs(i);
             }
         }
     }
 
-    static void bfs(int b, int count){
+    static void bfs(int b){
         Queue<Integer> que = new LinkedList<>();
         que.add(b);
         bfsVisited[b] = true;
@@ -29,7 +30,7 @@ public class Main {
             int next = que.poll();
             System.out.print(next);
 
-            for(int i=1;i<=count;i++){
+            for(int i=1;i<=n;i++){
                 if(graph[next][i] != 0 && !bfsVisited[i]){
                     que.add(i);
                     bfsVisited[i] = true;
@@ -40,7 +41,7 @@ public class Main {
     }
 
     public static void main(String[] args) throws IOException{
-        int n,m,v;
+        
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         String s = bf.readLine();
         StringTokenizer st = new StringTokenizer(s);
@@ -70,8 +71,8 @@ public class Main {
             graph[y][x] = 1;
         }
 
-        dfs(v,n);
+        dfs(v);
         System.out.println();
-        bfs(v,n);
+        bfs(v);
     }
 }
