@@ -12,10 +12,10 @@ public class Main {
 
     static void dfs(int start, int testCase){
         dfsVisited[start] = true;
-        count++;
-        for(int i = 0; i <= testCase ; i++){
+        for(int i = 1; i <= testCase ; i++){
             if(!dfsVisited[i] && graph[start][i] == 1){
                 dfs(i,testCase);
+                count++;
             }
         }
     }
@@ -25,7 +25,7 @@ public class Main {
         int testCase = Integer.parseInt(bf.readLine());
         int net = Integer.parseInt(bf.readLine()); 
 
-        for(int i=0;i<=testCase;i++){
+        for(int i=0;i<=testCase;i++){ // NullPointerException 예방
             for(int j=0;j<=testCase;j++){
                 graph[i][j] = 0;
             }
@@ -42,6 +42,6 @@ public class Main {
 
         dfs(1,testCase);
 
-        System.out.println(count-1);
+        System.out.println(count);
     }
 }
