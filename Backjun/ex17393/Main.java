@@ -6,8 +6,8 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Main {
-    static int[] tile;
-    static int[] viscosity;
+    static Long[] tile;
+    static Long[] viscosity;
     static int[] ans;
     static int N;
     static int answer;
@@ -15,19 +15,19 @@ public class Main {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         N = Integer.parseInt(bf.readLine());
 
-        tile = new int[N];
-        viscosity = new int[N];
+        tile = new Long[N];
+        viscosity = new Long[N];
         ans = new int[N];
 
         String s = bf.readLine();
         StringTokenizer st = new StringTokenizer(s);
         for(int i=0;i<N;i++){
-            tile[i] = Integer.parseInt(st.nextToken());
+            tile[i] = Long.parseLong(st.nextToken());
         }
         s = bf.readLine();
         st = new StringTokenizer(s);
         for(int i=0;i<N;i++){
-            viscosity[i] = Integer.parseInt(st.nextToken());
+            viscosity[i] = Long.parseLong(st.nextToken());
         }
 
         for(int i = 0;i<N;i++){
@@ -38,7 +38,7 @@ public class Main {
                 int mid = (start + end) / 2;
 
                 if(viscosity[mid] <= tile[i]){
-                    answer = mid - i;
+                    answer = (mid - i);
                     start = mid + 1;
                 }
                 else{
@@ -49,12 +49,8 @@ public class Main {
             ans[i] = answer;
         }
 
-        for(int i = 0;i<N;i++){
-            System.out.print(ans[i]);
-            if(i < N-1){
-                System.out.print(" ");
-            }
+        for(int list : ans){
+            System.out.println(list + "");
         }
-        System.out.println();
     }
 }
