@@ -33,5 +33,6 @@ public class Main{
         dp[1] = Math.max(block[0], block[1]);
         
         System.out.println(solution(idx - 1,block));
+        sc.close();
     }
 }
