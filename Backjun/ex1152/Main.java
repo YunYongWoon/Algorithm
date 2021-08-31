@@ -9,8 +9,15 @@ public class Main {
         BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
         String s = bf.readLine();
 
+        int count = 0;
+
         String[] arr = s.split(" ");
 
-        System.out.println(arr.length);
+        for(String text : arr){
+            if(text == "")
+                count++;
+        }
+
+        System.out.println(arr.length-count);
     }
 }
