@@ -3,6 +3,7 @@
 - 1004 : [어린 왕자](https://www.acmicpc.net/problem/1004) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1004/Main.java)
 - 1009 : [분산 처리](https://www.acmicpc.net/problem/1009) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1009/Main.java)
 - 1012 : [유기농 배추](https://www.acmicpc.net/problem/1012) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1012/Main.java)
+- 1057 : [토너먼트](https://www.acmicpc.net/problem/1057) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1057/Main.java)
 - 1149 : [RGB거리](https://www.acmicpc.net/problem/1149) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1149/Main.java)
 - 1152 : [단어의 개수](https://www.acmicpc.net/problem/1152) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1152/Main.java)
 - 1260 : [DFS와 BFS](https://www.acmicpc.net/problem/1260) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1260/Main.java)
