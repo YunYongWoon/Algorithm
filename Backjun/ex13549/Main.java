@@ -26,7 +26,7 @@ class Node {
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        int start, finish, ans = 0;
+        int start, finish;
         boolean[] visited = new boolean[200001];
         Deque<Node> deq = new LinkedList<>();
 
