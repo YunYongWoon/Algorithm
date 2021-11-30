@@ -39,6 +39,7 @@
 - 10026 : [적록색약](https://www.acmicpc.net/problem/10026) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10026/Main.java)
 - 10815 : [숫자 카드](https://www.acmicpc.net/problem/10815) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10815/Main.java)
 - 10816 : [숫자 카드 2](https://www.acmicpc.net/problem/10816) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10816/Main.java)
+- 10830 : [행렬 제곱](https://www.acmicpc.net/problem/10830) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10830/Main.java)
 - 11047 : [동전 0](https://www.acmicpc.net/problem/11047) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex11047/Main.java)
 - 11053 : [가장 긴 증가하는 부분 수열](https://www.acmicpc.net/problem/11053) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex11053/Main.java)
 - 11279 : [최대 힙](https://www.acmicpc.net/problem/11279) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex11279/Main.java)
