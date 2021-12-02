@@ -31,6 +31,7 @@
 - 2839 : [설탕 배달](https://www.acmicpc.net/problem/2839) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2839/Main.java)
 - 5430 : [AC](https://www.acmicpc.net/problem/5430) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex5430/Main.java)
 - 5585 : [거스름돈](https://www.acmicpc.net/problem/5585) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex5585/Main.java)
+- 5639 : [이진 검색 트리](https://www.acmicpc.net/problem/5639) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex5639/Main.java)
 - 7576 : [토마토](https://www.acmicpc.net/problem/7576) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex7576/Main.java)
 - 9019 : [DSLR](https://www.acmicpc.net/problem/9019) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9019/Main.java)
 - 9465 : [스티커](https://www.acmicpc.net/problem/9465) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9465/Main.java)
