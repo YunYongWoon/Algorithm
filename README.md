@@ -24,6 +24,7 @@
 - 2096 : [내려가기](https://www.acmicpc.net/problem/2096) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2096/Main.java)
 - 2178 : [미로 탐색](https://www.acmicpc.net/problem/2178) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2178/Main.java)
 - 2206 : [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2206/Main.java)
+- 2230 : [수 고르기](https://www.acmicpc.net/problem/2230) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2230/Main.java)
 - 2407 : [조합](https://www.acmicpc.net/problem/2407) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2407/Main.java)
 - 2438 : [별 찍기 - 1](https://www.acmicpc.net/problem/2438) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2438/Main.java)
 - 2529 : [부등호](https://www.acmicpc.net/problem/2529) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2529/Main.java)
