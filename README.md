@@ -21,6 +21,7 @@
 - 1932 : [정수 삼각형](https://www.acmicpc.net/problem/1932) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1932/Main.java)
 - 1987 : [알파벳](https://www.acmicpc.net/problem/1987) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1987/Main.java)
 - 1991 : [트리 순회](https://www.acmicpc.net/problem/1991) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1991/Main.java)
+- 1992 : [쿼드트리](https://www.acmicpc.net/problem/1992) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1992/Main.java)
 - 2096 : [내려가기](https://www.acmicpc.net/problem/2096) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2096/Main.java)
 - 2178 : [미로 탐색](https://www.acmicpc.net/problem/2178) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2178/Main.java)
 - 2206 : [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex2206/Main.java)
