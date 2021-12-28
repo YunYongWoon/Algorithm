@@ -16,6 +16,7 @@
 - 1753 : [최단경로](https://www.acmicpc.net/problem/1753) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1753/Main.java)
 - 1764 : [듣보잡](https://www.acmicpc.net/problem/1764) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1764/Main.java)
 - 1780 : [종이의 개수](https://www.acmicpc.net/problem/1780) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1780/Main.java)
+- 1783 : [병든 나이트](https://www.acmicpc.net/problem/1783) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1783/Main.java)
 - 1916 : [최소비용 구하기](https://www.acmicpc.net/problem/1916) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1916/Main.java)
 - 1927 : [최소 힙](https://www.acmicpc.net/problem/1927) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1927/Main.java)
 - 1932 : [정수 삼각형](https://www.acmicpc.net/problem/1932) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1932/Main.java)
