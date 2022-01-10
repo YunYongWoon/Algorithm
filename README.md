@@ -6,6 +6,7 @@
 - 1057 : [토너먼트](https://www.acmicpc.net/problem/1057) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1057/Main.java)
 - 1149 : [RGB거리](https://www.acmicpc.net/problem/1149) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1149/Main.java)
 - 1152 : [단어의 개수](https://www.acmicpc.net/problem/1152) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1152/Main.java)
+- 1158 : [요세푸스 문제](https://www.acmicpc.net/problem/1158) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1158/Main.java)
 - 1260 : [DFS와 BFS](https://www.acmicpc.net/problem/1260) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1260/Main.java)
 - 1330 : [두 수 비교하기](https://www.acmicpc.net/problem/1330) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1330/Main.java)
 - 1406 : [에디터](https://www.acmicpc.net/problem/1406) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1406/Main.java)
