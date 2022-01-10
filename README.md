@@ -8,6 +8,7 @@
 - 1152 : [단어의 개수](https://www.acmicpc.net/problem/1152) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1152/Main.java)
 - 1260 : [DFS와 BFS](https://www.acmicpc.net/problem/1260) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1260/Main.java)
 - 1330 : [두 수 비교하기](https://www.acmicpc.net/problem/1330) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1330/Main.java)
+- 1406 : [에디터](https://www.acmicpc.net/problem/1406) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1406/Main.java)
 - 1504 : [특정한 최단 경로](https://www.acmicpc.net/problem/1504) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1504/Main.java)
 - 1620 : [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1620/Main.java)
 - 1620 : [곱셈](https://www.acmicpc.net/problem/1629) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1629/Main.java)
