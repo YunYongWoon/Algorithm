@@ -55,6 +55,7 @@
 - 11279 : [최대 힙](https://www.acmicpc.net/problem/11279) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex11279/Main.java)
 - 11286 : [절댓값 힙](https://www.acmicpc.net/problem/11286) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex11286/Main.java)
 - 11399 : [ATM](https://www.acmicpc.net/problem/11399) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex11399/Main.java)
+- 11650 : [좌표 정렬하기](https://www.acmicpc.net/problem/11650) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex11650/Main.java)
 - 11659 : [구간 합 구하기 4](https://www.acmicpc.net/problem/11659) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex11659/Main.java)
 - 11660 : [구간 합 구하기 5](https://www.acmicpc.net/problem/11660) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex11660/Main.java)
 - 11723 : [집합](https://www.acmicpc.net/problem/11723) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex11723/Main.java)
