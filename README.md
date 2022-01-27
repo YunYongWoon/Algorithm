@@ -74,6 +74,7 @@
 - 15652 : [N과 M (4)](https://www.acmicpc.net/problem/15652) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex15652/Main.java)
 - 15654 : [N과 M (5)](https://www.acmicpc.net/problem/15654) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex15654/Main.java)
 - 15657 : [N과 M (8)](https://www.acmicpc.net/problem/15657) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex15657/Main.java)
+- 16234 : [인구 이동](https://www.acmicpc.net/problem/16234) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex16234/Main.java)
 - 16946 : [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex16946/Main.java)
 - 16953 : [A → B](https://www.acmicpc.net/problem/16953) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex16953/Main.java)
 - 17144 : [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex17144/Main.java)
