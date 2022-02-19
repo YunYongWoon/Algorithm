@@ -46,6 +46,7 @@
 - 9019 : [DSLR](https://www.acmicpc.net/problem/9019) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9019/Main.java)
 - 9465 : [스티커](https://www.acmicpc.net/problem/9465) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9465/Main.java)
 - 9471 : [피사노 주기](https://www.acmicpc.net/problem/9471) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9471/Main.java)
+- 9663 : [N-Queen](https://www.acmicpc.net/problem/9663) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9663/Main.java)
 - 9935 : [문자열 폭발](https://www.acmicpc.net/problem/9935) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9935/Main.java)
 - 10026 : [적록색약](https://www.acmicpc.net/problem/10026) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10026/Main.java)
 - 10610 : [30](https://www.acmicpc.net/problem/10610) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10610/Main.java)
