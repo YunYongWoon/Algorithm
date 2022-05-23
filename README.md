@@ -4,6 +4,7 @@
 - 1009 : [분산 처리](https://www.acmicpc.net/problem/1009) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1009/Main.java)
 - 1012 : [유기농 배추](https://www.acmicpc.net/problem/1012) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1012/Main.java)
 - 1057 : [토너먼트](https://www.acmicpc.net/problem/1057) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1057/Main.java)
+- 1074 : [Z](https://www.acmicpc.net/problem/1074) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1074/Main.java)
 - 1149 : [RGB거리](https://www.acmicpc.net/problem/1149) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1149/Main.java)
 - 1152 : [단어의 개수](https://www.acmicpc.net/problem/1152) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1152/Main.java)
 - 1158 : [요세푸스 문제](https://www.acmicpc.net/problem/1158) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex1158/Main.java)
