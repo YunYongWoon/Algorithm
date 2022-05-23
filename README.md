@@ -51,6 +51,7 @@
 - 9935 : [문자열 폭발](https://www.acmicpc.net/problem/9935) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9935/Main.java)
 - 10026 : [적록색약](https://www.acmicpc.net/problem/10026) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10026/Main.java)
 - 10610 : [30](https://www.acmicpc.net/problem/10610) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10610/Main.java)
+- 10773 : [제로](https://www.acmicpc.net/problem/10773) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10773/Main.java)
 - 10815 : [숫자 카드](https://www.acmicpc.net/problem/10815) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10815/Main.java)
 - 10816 : [숫자 카드 2](https://www.acmicpc.net/problem/10816) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10816/Main.java)
 - 10830 : [행렬 제곱](https://www.acmicpc.net/problem/10830) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex10830/Main.java)
