@@ -76,6 +76,7 @@
 - 13913 : [숨바꼭질 4](https://www.acmicpc.net/problem/13913) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex13913/Main.java)
 - 14442 : [벽 부수고 이동하기 2](https://www.acmicpc.net/problem/14442) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex14442/Main.java)
 - 14499 : [주사위 굴리기](https://www.acmicpc.net/problem/14499) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex14499/Main.java)
+- 14502 : [연구소](https://www.acmicpc.net/problem/14502) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex14502/Main.java)
 - 15650 : [N과 M (2)](https://www.acmicpc.net/problem/15650) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex15650/Main.java)
 - 15652 : [N과 M (4)](https://www.acmicpc.net/problem/15652) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex15652/Main.java)
 - 15654 : [N과 M (5)](https://www.acmicpc.net/problem/15654) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex15654/Main.java)
