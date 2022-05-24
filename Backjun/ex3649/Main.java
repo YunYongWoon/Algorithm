@@ -12,7 +12,7 @@ public class Main {
 		while ((s = bf.readLine()) != null) {
 			int size = Integer.parseInt(s) * 10000000;
 			int testCase = Integer.parseInt(bf.readLine());
-			int arr[] = new int[testCase];
+			int[] arr = new int[testCase];
 
 			for (int i = 0; i < testCase; i++) {
 				arr[i] = Integer.parseInt(bf.readLine());

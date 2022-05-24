@@ -20,14 +20,14 @@ class Node {
 public class Main {
 	public static void main(String[] args) throws IOException{
 		BufferedReader bf = new BufferedReader(new InputStreamReader(System.in));
-		String rcInput[] = bf.readLine().split(" ");
+		String[] rcInput = bf.readLine().split(" ");
 		int answer = 0;
 
 		int r = Integer.parseInt(rcInput[0]);
 		int c = Integer.parseInt(rcInput[1]);
 
 		// 맵 생성
-		int map[][] = new int[r][c];
+		int[][] map = new int[r][c];
 		for (int i = 0; i < r; i++) {
 			String mapInput[] = bf.readLine().split("");
 			for (int j = 0; j < c; j++) {
@@ -63,10 +63,10 @@ public class Main {
 	}
 
 	static int bfs(int map[][], int row, int col, int startI, int startJ) {
-		boolean isVisited[][] = new boolean[row][col];
+		boolean[][] isVisited = new boolean[row][col];
 		Queue<Node> que = new LinkedList<>();
-		int di[] = {1, -1, 0, 0};
-		int dj[] = {0, 0, 1, -1};
+		int[] di = {1, -1, 0, 0};
+		int[] dj = {0, 0, 1, -1};
 		int result = 0;
 
 		for (int i = 0; i < row; i++) {
