@@ -47,6 +47,7 @@
 - 6443 : [애너그램](https://www.acmicpc.net/problem/6443) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex6443/Main.java)
 - 6581 : [HTML](https://www.acmicpc.net/problem/6581) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex6581/Main.java)
 - 7576 : [토마토](https://www.acmicpc.net/problem/7576) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex7576/Main.java)
+- 8979 : [올림픽](https://www.acmicpc.net/problem/8979) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex8979/Main.java)
 - 9019 : [DSLR](https://www.acmicpc.net/problem/9019) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9019/Main.java)
 - 9465 : [스티커](https://www.acmicpc.net/problem/9465) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9465/Main.java)
 - 9471 : [피사노 주기](https://www.acmicpc.net/problem/9471) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex9471/Main.java)
