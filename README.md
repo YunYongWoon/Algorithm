@@ -86,6 +86,7 @@
 - 16234 : [인구 이동](https://www.acmicpc.net/problem/16234) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex16234/Main.java)
 - 16946 : [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex16946/Main.java)
 - 16953 : [A → B](https://www.acmicpc.net/problem/16953) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex16953/Main.java)
+- 17140 : [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex17140/Main.java)
 - 17144 : [미세먼지 안녕!](https://www.acmicpc.net/problem/17144) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex17144/Main.java)
 - 17219 : [비밀번호 찾기](https://www.acmicpc.net/problem/17219) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex17219/Main.java)
 - 17393 : [다이나믹 롤러](https://www.acmicpc.net/problem/17393) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex17393/Main.java)
