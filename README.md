@@ -84,6 +84,7 @@
 - 15654 : [N과 M (5)](https://www.acmicpc.net/problem/15654) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex15654/Main.java)
 - 15657 : [N과 M (8)](https://www.acmicpc.net/problem/15657) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex15657/Main.java)
 - 16234 : [인구 이동](https://www.acmicpc.net/problem/16234) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex16234/Main.java)
+- 16926 : [배열 돌리기 1](https://www.acmicpc.net/problem/16926) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex16926/Main.java)
 - 16946 : [벽 부수고 이동하기 4](https://www.acmicpc.net/problem/16946) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex16946/Main.java)
 - 16953 : [A → B](https://www.acmicpc.net/problem/16953) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex16953/Main.java)
 - 17140 : [이차원 배열과 연산](https://www.acmicpc.net/problem/17140) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex17140/Main.java)
