@@ -95,4 +95,5 @@
 - 17393 : [다이나믹 롤러](https://www.acmicpc.net/problem/17393) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex17393/Main.java)
 - 17478 : [재귀함수가 뭔가요?](https://www.acmicpc.net/problem/17478) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex17478/Main.java)
 - 22353 : [헤이카카오](https://www.acmicpc.net/problem/22353) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex22353/Main.java)
+- 23889 : [돌 굴러가유](https://www.acmicpc.net/problem/23889) - [코드](https://github.com/YunYongWoon/Algorithm_solve/blob/master/Backjun/ex23889/Main.java)
 
